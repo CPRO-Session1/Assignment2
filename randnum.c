@@ -1,3 +1,6 @@
+/* Yael Kelmer.
+This code generates a random number and allows the user to guess the number. The computer tells the user if the guess is correct, too low, or too high. */
+
 #include <stdio.h> 
 #include <stdlib.h>
 #include <time.h>
