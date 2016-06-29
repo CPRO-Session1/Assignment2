@@ -1,0 +1,9 @@
+Lloyd Page
+1. Two or more operators can be comined into a single line of code
+2. logical errors are valid programs with unexpected outcomes, syntax errors break the program, causing it to crash.
+3. True
+4. Not valid, the proper way to write the said expression would be 0<x &&x<15.
+5.i. invalid, then is not used in C
+5.ii. invalid, the computer cannot identify the arguments of the if statement
+5. iii. valid
+5. iV. invalid, missing a semicolon following c=0.
