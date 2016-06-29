@@ -1,16 +1,16 @@
-#include <stdio.h>
+/* Yael Kelmer.
+   This code functions as a calculator with the operations of addition, subtraction, multiplication, division, and modulus. */
 
-/* need to figure out what each line means */
-/* pretty sure the printf will print exactly what is in quotation marks not actually do the operation */
+#include <stdio.h>
 
 int main()
 {
-	printf ("Please type any number.\n");
-	float num1;
-	scanf ("%f", &num1);
-	printf ("Please type another number.\n");
-	float num2;
-	scanf ("%f", &num2);
+	printf ("Please type any integer.\n");
+	int num1;
+	scanf ("%d", &num1);
+	printf ("Please type another integer.\n");
+	int num2;
+	scanf ("%d", &num2);
 	printf ("Please choose and type one of the following mathematical operations: + , - , * , / , %\n");
 	char operation;
 	scanf (" %c", &operation);
@@ -18,30 +18,30 @@ int main()
 	switch (operation)
 	{
 		case '+': ;
-			float sum;
+			int sum;
 			sum = num1 + num2;
-			printf ("%f + %f = %f\n", num1, num2, sum);
+			printf ("%d + %d = %d\n", num1, num2, sum);
 			break;
 		case '-': ;
-			float difference;
+			int difference;
 			difference = num1 - num2;
-			printf ("%f - %f = %f\n", num1, num2, difference);
+			printf ("%d - %d = %d\n", num1, num2, difference);
 			break;
 		case '*': ;
-			float product;
+			int product;
 			product = num1 * num2;
-			printf ("%f * %f = %f\n", num1, num2, product);
+			printf ("%d * %d = %d\n", num1, num2, product);
 			break;
 		case '/': ;
-			float quotient;
+			int quotient;
 			quotient = num1 / num2;
-			printf ("%f / %f = %f\n", num1, num2, quotient);
+			printf ("%d / %d = %d\n", num1, num2, quotient);
 			break;
-/*		case '%': ;
-			float mod;
+		case '%': ;
+			int mod;
 			mod = num1 % num2;	
-			printf ("%f % %f = %f\n", num1, num2, mod);
-			break;*/
+			printf ("%d %% %d = %d\n", num1, num2, mod);
+			break;
 	}
 	
 	
@@ -49,21 +49,4 @@ int main()
 	
 	return 0;
 	
-/*	char operator
-switch (operator)
-	case x +y :
-		printf ("x + y");
-		break;
-	case 2: 
-		printf ("x - y");
-		break;
-	case 3:
-		printf ("x * y");
-		break;
-	case 4:
-		printf ("x / y");
-		break;
-	case 5: 
-		printf ("x % y");
-		break; */
 }
