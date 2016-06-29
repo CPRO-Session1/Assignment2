@@ -1,0 +1,14 @@
+Questions for assignment 2
+
+1. Yes they can if they are separated by && (and) or || (or).
+
+2. A logical error will not give you an error or a bug in your code but will not make sense and cause the program to stop. The issue does not come from an error with reading the code but from the logic behind the steps.
+
+3. true
+
+4. The expression isn't valid because the operations need to be separated by && or ||. In this case, the code should read x>0 && x<15.
+
+5. (i) is invalid because of the 'then' after the 'if'.
+(ii) is invalid because you need () around the condition next to the if.
+(iii) is valid.
+(iv) is invalid because there needs to be a ; separating the complete if statement and the else statement.
