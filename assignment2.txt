@@ -1,0 +1,29 @@
+Emma Ladouceur homework2 questions
+
+Question 1
+	Absolutely! Its quite common to mix two operators in equations. For example for the quadratic equation divition multiplication and square roots are all used. The important thing is remebering order of operations and parenthesis
+
+
+Question 2
+	Systax errors involve forgetting a ; or making a mistake in the coding of a program whereas logical errors are issues with the program and how it goes about completing its task.
+
+
+Question 3
+	True && x< 25 && x!=12
+	True && False && True
+	False && True
+	False (Which i believe in c is 0?)
+
+Question 4
+	I believe it is valid because  the entire statement is true. I'm not sure you could use it like that in code however. While both sides of the statement are true, I believe it should be written as 0<x && x<15 which means true && true --> so the answer is true.
+
+Question 5
+	i. Invalid because you cannot use then. You must put in {} braces and then do {c= 0}
+
+	ii. Invalid. It needs () around a>b and, the semi colon is only necessary I believe, if the } brace is on the next line.
+
+	iii. This actually can be valid. personally I like using {} around my statments, but it's not necessary IF it is the last conditional statements of that series of statements. 
+
+	iv. Here is a situation where you would need {} around the c=0 because there is an else statement following it. the else statement can remain as is. oh and the c=0 needs a ; i think. 
+
+	:) Emma Ladouceur
