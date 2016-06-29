@@ -30,4 +30,5 @@ int main()
 			printf("Invalid option\n");
 	}
 	printf("the result is %d\n",d);
+	return 0;
 }
