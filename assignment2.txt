@@ -1,0 +1,10 @@
+Jack Rosen
+
+1. They  cannot be combined into one statement because they will interfere with each other.
+2. Logical errors are not errors in the code, but errors that affect how the code is run. The code will run with a logical error but not with a syntax error.
+3. The outcome would be 1 since it is true.
+4. It is not valid because x is being compared to two things in one line. You need to do x > 0 && x < 15.
+5. i is invalid because there is no 'then' command.
+ii is invalid because there are no parenthesis around the condition.
+iii is valid.
+iv is invalid since there is no semicolon after the 'c = 0.'
