@@ -1,3 +1,6 @@
+/* Yael Kelmer.
+   This code allows a user to input a number and the computer will tell the user if the number is positive or negative. */
+
 #include <stdio.h>
 
 int main()
