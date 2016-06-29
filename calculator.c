@@ -5,7 +5,7 @@ int main()
 	int a;
 	int b;
 	int d;
-	printf("Select a mathematical operation\n");
+	printf("Select a mathematical operation: \"+,-,*,/,%%\"\n");
 	scanf("%c",&c);
 	printf("Select your numbers\n");
 	scanf("%d %d",&a,&b);
