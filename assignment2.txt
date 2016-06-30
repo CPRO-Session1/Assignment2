@@ -1,0 +1,20 @@
+Olivier Gabison - Answers to Part 2 Questions
+
+1. Yes, for example you can have:
+int x = (10 * 20)/2 //This has two operators. You can keep adding operators, there is no "maximum" amount
+of numbers you can't have.
+
+2. An example of a logical error would be misspelling words such as 'int' as 'itn'. Another
+example would be forgetting to place a semicolon at the end of a statement.
+
+3. Outcome of: x >= 10 && x < 25 && x != 12 if x=10;
+True && True && True. All are true, thus the outcome is true;
+
+4. No, it is not correct. This is because you cannot use this as a condition. Instead,
+you have to do: x > 0 && x < 15
+
+5. The only valid one is 3.
+1 is incorrect because you 'then' is not a reserved word in C. You have to use brackets
+instead of then.
+2 is incorrect because you need parenthesis around the conditional statement.
+4 is incorrect because you need a semicolon after c = 0;
