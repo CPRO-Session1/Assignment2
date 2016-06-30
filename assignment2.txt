@@ -1,0 +1,6 @@
+Christopher Liu
+1. Yes, two or more operators can be combined, but relational operators have to be combined with a logical operator like and or or. 
+2. Syntax errors are caused by incorrect usage of variables, functions, or just not following the rules of the program. Usually results in the program crashing. Logic errors are when a program doesn't do what you expect it to do. These are a lot harder to debug as they don't cause the program to immediately stop.
+3. 1
+4. No you would need to use && to connect the two conditions, 0<x && x < 15.
+5. iii is correct. i is not correct as then is not a keyword used for if statements. ii is not correct because you need parentheses around the condition a > b. iv is not correct because you need a semicolon after the first if statement.
