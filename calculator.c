@@ -35,7 +35,7 @@ int main()
 		    break;
 	    case '%':
 		    a=(int)y%(int)z;
-		    printf("The percentage is: %f\n", x);
+		    printf("The percentage is: \n", x);
 		    break;
 	    default:
 		    printf("Your response was invalid. Please try again.");
