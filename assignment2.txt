@@ -1,0 +1,11 @@
+Bettina Benitez
+
+1. You can combine two or more operators. However, you must include && or ||.
+2. Logical errors happen when the output of the code is unexpected while Syntax errors are grammatical errors in the code.
+3. The conditional statement is true
+4. No because there are too many statements at once. It should be separated by &&
+5.
+i. It is invalid because you do not use "then" because it is not part of the c language. It also needs curly brackets before and after "c = 0"
+ii. It is invalid because "a > b" is not written in parenthesis.
+iii. It is invalid because there are no curly brackets to enclose "c = 0".
+iv. It is invalid because there should be curly brackets in between "(a > b)" and "c=0" in between "c=0" and "else" and after "b = 0"
