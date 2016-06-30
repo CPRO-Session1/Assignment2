@@ -2,33 +2,37 @@
 int main()
 {
 	char c;
-	int a;
-	int b;
-	int d;
+	float a;
+	float b;
+	float d;
 	printf("Select a mathematical operation: \"+,-,*,/,%%\"\n");
 	scanf("%c",&c);
 	printf("Select your numbers\n");
-	scanf("%d %d",&a,&b);
+	scanf("%f %f",&a,&b);
 	switch(c)
 	{
 		case '+':
 			d=a+b;
+			printf("the Result is %g\n",d);
 			break;
 		case '-':
 			d=a-b;
-			break;
+			printf("the Result is %g\n",d);
+			break;	
 		case '*':
-			d=a*b;
+			d=a*b;	
+			printf("the Result is %g\n",d);
 			break;
 		case '/':
-			d=a/b;
+			d=a/b;	
+			printf("the Result is %g\n",d);
 			break;
 		case '%':
-			d=a%b;
+			d=(float)((int)a%(int)b);	
+			printf("the Result is %.0f\n",d);
 			break;
 		default:
 			printf("Invalid option\n");
 	}
-	printf("the result is %d\n",d);
 	return 0;
 }
