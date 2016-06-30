@@ -1,0 +1,13 @@
+Name: Anya Lauria 
+
+1. If the operators are +-/*, then yes, they can be. 
+2. Syntax refers to the grammar of a programming language. Therefore, a 
+   syntax  error refers to failure in conforming to the grammar of a
+   particular language, which would result in a compiler being unable to
+   compile the program. On the other hand, a logic error is when a 
+   program does not understand what it is expected to do. 
+3. True
+4. No, you cannot combine these operators. 
+5. The "then" should be omitted from statement 1. A semicolon is missing in    statement 4, and the condition needs to be in brackets in statement 2.
+
+
