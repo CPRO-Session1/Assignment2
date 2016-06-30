@@ -1,0 +1,13 @@
+Clarke Littlejohn
+
+1) Yes there can be two or more operators in a single line of code.
+
+2) logical erros cause operations to execute in the wrong order. Syntax erros is when the code is can not be used at all the code in
+   question 4 is an example of this.
+
+3) it should come back as true(1).
+
+4) The code wont wokr the code should be broken up into two expressions and havean and statement to connect the two expressions
+
+5)iii is the only one that is valid. i has then is not used in c, ii is missing parenthesis around ab expression, iv id missing one semicolon before the else.
+
