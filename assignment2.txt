@@ -1,0 +1,11 @@
+Yael Kelmer
+
+1. Yes, two or more arithmetic operators can be combined in a single line of code.
+
+2.The difference between a logical error and a syntax error is that a logical error is something that is simply wrong whereas a syntax error is something that does not allow the code to compile. A logical error is when you write something that is incorrect. For example, if you have a case statement that is supposed to evaluate the difference of two numbers, but you write the code so that it evaluates the sum of the two numbers. A syntax error is when the "grammar" of the code is incorrect and it does not allow the code to compile. For example, if you write a colon (:) instead of a semicolon (;) at the end of a statement where a semicolon is needed. 
+
+3. The outcome is true.
+
+4. This is not valid, because you cannot have two comparison operators in a single line of code. 
+
+5. The only valid code is iii ( if (a>b) c=0;). The first one is not valid, because the word "then" is present. The second one is not valid, because there are no parentheses around a>b. The last one is not valid, because there is no semicolon after c=0. 
