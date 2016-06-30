@@ -1,0 +1,8 @@
+1.Yes, definitely. This is because an equation will most likely not only have one operator. For example: (1+5)*6. Furthermore, there are instances where many can be used, for example when finding whether a statement is true of false. The example is given on question 3, using greater than or equal to, less than, not equal to, ANDs, for comparison. the OR comparison can be used as well if necessary ||. 
+2.Logical errors are the problems created by the outcome of the code, and you will not know where the error is unless you understand the production and the cause of the problem. While syntax errors are similar to careless mistakes in spelling, where the compiler will tell the coder where the small mistake is.
+3.True
+4.I am guessing this is invalid because this logic has to be split into two separate equations for the compiler to understand. Eg 0<x && x<15 .
+5i. There is no "then" in code.
+5ii. Parentheses is required around a>b
+this is correct, but curly braces are highly recommended to prevent misunderstanding and confusion.
+Adding curly braces is one issue, if not, there should be a semi colon after c=0.i
