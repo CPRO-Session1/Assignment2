@@ -8,7 +8,6 @@ Name: Anya Lauria
    program does not understand what it is expected to do. 
 3. True
 4. No, you cannot combine these operators. 
-5. The "then" is unnecessary. A semicolon is missing, and the condition 
-   needs to be in brackets 
+5. The "then" should be omitted from statement 1. A semicolon is missing in    statement 4, and the condition needs to be in brackets in statement 2.
 
 
