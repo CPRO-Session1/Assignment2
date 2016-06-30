@@ -1,0 +1,36 @@
+1. Can two or more operators be combined in a single line of program code?
+Yes, although it must be done syntactically correct. Multiple operators such as *,%,/,+, and -
+can all be used in a single line between numbers. Ex: int g = 5 % 2 + 1; Order of operations will
+still apply. Other operators such as >, <, ==, and != can also be used multiple times in
+a single line of code, however they must be used across multiple expressions. Using the example
+from question 4, you cannot use the conditional statement 0 < x < 15. In order to get the
+logical equivalent that is syntactically correct, you must separate it into two expressions
+with a logical operator in between: 0 < x && x < 15.
+2. What are logical errors and how are they different from syntax errors?
+	Syntax errors are are errors as a result of typing the code wrong, whether
+	a typo or simply typing something wrong, causing the code to malfunction
+	as a result. A logical error is where your code is correct
+	syntactically(Is this a word?) but the output is not what you desired.
+	The logic that you used was not the correct logic to get the outcome you desired.
+3. What is the outcome of the following conditional statement if the value
+of the variable x is 10?
+	x > = 10 && x < 25 && x != 12
+The outcome would be true. An && condition statement is true if all the
+individual statements within it are true. Since x = 10, it is equal to 10,
+less than 25 and isn't 12. Therefore all the conditions are true, making
+the overall condition statement true.
+4. Is the following expression valid? Why or why not?
+	0 < x < 15
+The preceding expression isn't valid. You cannot merge two conditional 
+statements together like above. In order to express it correctly,
+use the expression: 0 < x && x < 15
+5. Which of the following are valid? What is wrong with any that are
+invalid?
+	i. if (a > b) then c = 0;
+	ii. if a > b {c=0;}
+	iii. if (a > b) c = 0;
+	iv. if (a > b) c =0 else b = 0;
+Statements iii and iv are true. Statement ii isn't valid because the 
+conditional isn't within parentheses, and statement i is invalid
+because it uses the word then, which shouldn't be there.
+
