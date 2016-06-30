@@ -44,8 +44,11 @@ void replaceBackground(char from, char to){
 		}
 	}
 }
-
+void scrollUp(int lines){
+	for(int i = 0; i < lines; i++) printf("\033[F");
+}
 void update(){
+	scrollUp(22);
 	ascii[2][0] = 'b';
 	ascii[2][30] = 'b';
 	for(int i = 0; i < 29; i++) ascii[2][i + 1] = value[i];
@@ -109,6 +112,7 @@ void executeButton(){
 
 
 int main(){
+	for(int i = 0; i < 22; i++)printf("\n");
 	replaceBackground(' ', 's');
 	update();
 	while(1){
