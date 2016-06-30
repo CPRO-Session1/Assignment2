@@ -1,0 +1,15 @@
+Harry Brickner
+
+1) Sure! For example, "int six = 1 + 2 + 3;"
+
+2) As far as the computer is concerned, the only errors that exist are syntax errors. A program will run with logical errors, but not work the way it's intended to, whereas a program will not run if it has syntax errors.
+
+3) True
+
+4) It is not valid. "0 < x" is a boolean, so the "< 15" tries to compare itself to a boolean value.
+
+5) 1) invalid: an if() is followed by a {, not a "then"
+   2) invalid: the boolean needs to be surrounded by parentheses
+   3) valid
+   4) valid
+
