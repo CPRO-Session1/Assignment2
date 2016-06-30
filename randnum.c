@@ -1,5 +1,5 @@
 //Clarke Littlejohn
-//Guessing Game wih random number generator
+//Guessing Game random number generator
 
 #include<stdio.h>
 #include<stdlib.h>
