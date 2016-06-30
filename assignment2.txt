@@ -1,0 +1,6 @@
+Rumeet Goradia
+1. Yes, multiple operators can be and often are used in single lines of code. The most common instance is the use of the assignment operator paired with an arithmetic operator; for instance, the code "int r = 9 + 7;" uses more than one operator and will still work perfectly fine.
+2. Logical errors occur when a program does something other than what is expected by the programmerbecause of incorrect placement of certain lines of code or other mistakes that are not always directly pointed out by the compiler. Syntax errors occur when a programmer uses incorrect "grammar" in his or her code for a program.
+3. The statement will be true.
+4. No, the expression is invalid because comparison operators cannot be "combined"; to  achieve the desired result, the '&&' operator would have to be used.
+5. Assuming a, b, and c, have been previously declared, statements II, III, and IV are valid. Statement I is invalid because 'then' does not exist in C.
