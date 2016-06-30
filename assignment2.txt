@@ -1,0 +1,14 @@
+Ava N.
+June 29, 2016
+
+1.  There can be two or more operators in a single line of program code as long as there is a logical operator seperating the relational operator statements. 
+
+2. Syntax errors are incorrect spellings of reserved words or incorrect puncuation. Logical errors give an output that is unexpected or unwanted. 
+
+3. 10>= && 10<25 && 10 !=12
+     true    true     true
+	  answer=true
+
+4. The given example is incorrect because there cannot be more then one relational operator in a single statement. This is only allowed, however, when there is a logical operator inbetween them. The statement can instead look like this: 0<x && x<15. This represents what x has to be equal to under these circumstances. 
+
+5. Example i is invalid because 'then' should not be written. Example ii is invalid because there needs to be parentheses around a>b. Example iii is valid. Example iv is invalid because there needs to be a semicolon(;) after c=0.  
