@@ -24,6 +24,7 @@ int main()
 			{
 				x=0;
 				printf("you guessed correctly\n");
-		}	}
+			}
+		}
 	}
 }
