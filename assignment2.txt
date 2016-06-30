@@ -1,5 +1,5 @@
 Lloyd Page
-1. Two or more operators can be comined into a single line of code
+1. Two or more operators can be combined into a single line of code
 2. logical errors are valid programs with unexpected outcomes, syntax errors break the program, causing it to crash.
 3. True
 4. Not valid, the proper way to write the said expression would be 0<x &&x<15 due to the syntax of C.
