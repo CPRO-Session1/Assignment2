@@ -7,7 +7,7 @@ Name: Anya Lauria
    compile the program. On the other hand, a logic error is when a 
    program does not understand what it is expected to do. 
 3. True
-4. Yes it is- 10 is greater than 0, and 15 is greater than 10 
+4. No, you cannot combine these operators. 
 5. The "then" is unnecessary. A semicolon is missing, and the condition 
    needs to be in brackets 
 
