@@ -1,0 +1,16 @@
+Sean Kee
+
+1. Yes, two ore more operators can be combined in a single line of program code.
+
+2. A logical error is when there is an error in the actual code that causes the program to not run properly, or as intended. This does not necessicarily cause the program to crash, as the code is still valid. However, syntax erros are when there is a problem with the syntax, or format, of the code, which would most likely cause the program to not run at all.
+
+3. If variable x is 10, the outcome would be True, or 1. 10 is obviously greater or equl to 10, less than 25, and not 12.
+
+4. The expression is invalid because:
+	a) x was not initialized beforehand
+	b) it is not within an "if" statement or something similar, and it is not defining x as anything
+
+5. i. INVALID, the word "then" should not be there
+ii. INVALID, missing () around a>b
+iii. VALID
+iv. INVAID, missing ; after c=0
