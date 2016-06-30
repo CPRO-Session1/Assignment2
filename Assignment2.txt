@@ -1,0 +1,26 @@
+
+1. Can two or more operators be combined in a single line of program code?
+Yes.
+
+2. What are logical errors and how are they different from syntax errors?
+The logical errors are the errors that indicate the logic in the code fails to achieve your goal, and the syntax errors are errors that exist because of the wrong using of words and grammer. The differences between both are: 1. We can receive a error message from the complishier if we made a syntax error, while we won't receive any error message if we made a logical error; 2. The logical error is the error in logic, and the syntax error is the error in grammer and words.
+
+3. What is the outcome of the following conditional statement if the value of variable x is 10? 
+ ```
+ x > = 10 && x < 25 && x != 12
+ ```
+True.
+
+4. Is the following expression valid?  Why or why not? 
+ ```
+ 0 < x < 15 
+ ```
+If it is considered as a fragment from a complete function or line, it is valid, since it maybe a condition that the program is judging.
+If it is considered as a complete line, it is not valid, since it's format is not complete, and it has no influence to the program.
+
+5. Which of the following are valid?  What is wrong with any that are invalid?
+    1.  if (a > b) then c = 0; Not valid, because there should be no "then".
+    2.  if a > b { c = 0; } Not valid, because "{}"should be in front of "if" and in the back of "c=0;"; in addition, there should be a "()" over "a>b".
+    3.  if (a > b) c = 0; It's valid.
+    4.  if (a > b) c = 0 else b = 0; Not valid, there should be a ";" after the "c=0".
+
