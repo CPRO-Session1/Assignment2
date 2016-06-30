@@ -1,0 +1,11 @@
+# Julia Tan
+
+1. Depends. Two or more operators can be combined in the same line of code if they are arithmetic operators (+, -, *, /). When using the greater, less than, or equals operator, it cannot be used more than once in the same statement, unless they are separated with || or &&.
+2. A logical error creates an unexpected outcome, while a syntax error is only an error in grammar.
+3. true
+4. The expression is invalid.
+5. None of the following are valid.
+i. The word "then" cannot be used in C, as the program doesn't recognize this word.
+ii. There needs to be a parentheses around "a>b"
+iii. There needs to be curly brackets around "c = 0;"
+iv. There needs to be curly brackets around "c = 0" and "b = 0".
