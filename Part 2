@@ -1,0 +1,14 @@
+Matthew Danielson
+6/29/16
+Assignment 2; Part 2
+
+1) Yes, multiple operators can appear on each line, for instance: if(a == b || b == c) : there can be multiple operators used to further specify the restrictions on a conditional.
+ 
+2) Logical errors are mistakes by a programmer where there the code is not faulty due to a missing semi colon or quotation mark - which are syntax errors - but rather, when the rational on a conditonal or loop is incorrect.
+
+3) The outcome will be true; x is equal to 10, satisfying the first conditonal, it is less than 25 and not equal to 12. Thus, the conditions are satisfied.
+
+4) This technically will run; but, it would not function as expected. It would see if x is greater or less than 0, and will compare the resulting 0 or 1 with 15. It will run, but it will always run true. 
+
+5) II and II are valid. I is incorrect because 'then' is not a keyword and will cause an error. IV is wrong because there lacks a semicolon after 'c=0'. Given that, it would work.
+
